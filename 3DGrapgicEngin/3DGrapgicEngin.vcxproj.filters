@@ -10,7 +10,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3DGrapgicEngin.cpp">
+    <ClCompile Include="3DGraphicEngin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

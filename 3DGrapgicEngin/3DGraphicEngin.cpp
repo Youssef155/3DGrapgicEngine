@@ -168,7 +168,7 @@ public:
 
             normal.x /= l; normal.y /= l; normal.z /= l;
 
-            if (normal.z < 0)
+            //if (normal.z < 0)
             {
                 // Projection (project triangles from 3D ==> 2D)
                 MultiplyMatrixVector(triTranslated.p[0], triProjected.p[0], matProj);
